@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: seminar007
+server:
+  port: 8080
